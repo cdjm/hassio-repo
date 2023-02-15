@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Hue Emulation for Home Assistant",
   "url": "https://github.com/cdjm/hass-emulated-hue",
-  "slug": "emulated_hue_dev",
+  "slug": "emulated_hue_dev_cdjm",
   "stage": "experimental",
   "startup": "application",
   "boot": "auto",
